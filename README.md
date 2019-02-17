@@ -48,5 +48,6 @@
 # Website
 * [Wiki](https://en.wikipedia.org/wiki/Ensemble_learning)
 * [Kaggle](https://mlwave.com/kaggle-ensembling-guide/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 * [Scikit-Learn](https://scikit-learn.org/stable/modules/ensemble.html)
 * [ML-Ensemble](http://ml-ensemble.com/)
