@@ -1,4 +1,4 @@
-![Picture](https://github.com/pku-H2R/Feature-Engineering/blob/master/Picture/feature.jpg)
+![Picture](https://github.com/pku-H2R/ModelEnsemble/blob/master/Picture/picture.jpg)
 
 # Getting Started
 **Digitalizing the world**  
