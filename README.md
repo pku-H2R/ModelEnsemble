@@ -10,7 +10,7 @@
 **Is the gate to the secret of all life**
 
 # Content
-* [How to succeed?](#How-to-succeed?)
+* [How to succeed?](#How-to-succeed)
 * [Voting](#Voting)
 * [Averaging](#Averaging)
 * [Bagging](#Bagging)
@@ -22,7 +22,7 @@
 * [Website](#Website)
 
 
-# How-to-succeed?
+# How-to-succeed
 * As good as possible
 * As different as possible
 
