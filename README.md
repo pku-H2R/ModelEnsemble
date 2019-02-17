@@ -23,21 +23,33 @@
 
 
 # How-to-succeed
+
 * As good as possible
 * As different as possible
 
-
 # Voting
 
+* Majority Voting
+* Weighted Voting
 
 # Averaging
 
+* Arithmetic Average
+* Weighted Voting
 
 # Bagging
+
+* Random Forest
 
 
 # Boosting
 
+* AdaBoost
+* Gradient Boosting Machine
+    * Gradient Boosting Decision Tree(GBDT)
+    * Extreme Gradient Boosting(XgBoost)
+    * LightGBM
+    * CatBoost
 
 # Blending
 
