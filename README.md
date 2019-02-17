@@ -19,7 +19,7 @@
 * [Website](#Website)
 
 
-# How to succeed?
+# How-to-succeed?
 * As good as possible
 * As different as possible
 
