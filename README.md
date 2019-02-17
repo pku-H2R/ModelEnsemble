@@ -47,9 +47,9 @@
 * AdaBoost
 * Gradient Boosting Machine
     * Gradient Boosting Decision Tree(GBDT)
-    * Extreme Gradient Boosting(XgBoost)
-    * LightGBM
-    * CatBoost
+    * [Extreme Gradient Boosting(XgBoost)](https://xgboost.readthedocs.io/en/latest/)
+    * [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+    * [CatBoost](https://catboost.ai/)
 
 # Blending
 
