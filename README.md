@@ -4,10 +4,7 @@
 
 
 # Getting Started
-**Digitalizing the world**  
-**Finding the relationship between these numbers**   
-**Reaching from the mystery into the deeper mystery**  
-**Is the gate to the secret of all life**
+**Wisdom of the crowd**  
 
 # Content
 * [How to succeed?](#How-to-succeed)
