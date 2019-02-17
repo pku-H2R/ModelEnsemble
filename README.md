@@ -40,7 +40,7 @@
 # Bayesian-Model-Combination
 
 # Website
-[Wiki](https://en.wikipedia.org/wiki/Ensemble_learning)
-[Kaggle](https://mlwave.com/kaggle-ensembling-guide/)
-[Scikit-Learn](https://scikit-learn.org/stable/modules/ensemble.html)
-[ML-Ensemble](http://ml-ensemble.com/)
+* [Wiki](https://en.wikipedia.org/wiki/Ensemble_learning)
+* [Kaggle](https://mlwave.com/kaggle-ensembling-guide/)
+* [Scikit-Learn](https://scikit-learn.org/stable/modules/ensemble.html)
+* [ML-Ensemble](http://ml-ensemble.com/)
