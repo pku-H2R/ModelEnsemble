@@ -7,7 +7,7 @@
 **Wisdom of the crowd**  
 
 # Content
-* [How to succeed?](#How-to-succeed)
+* [How to succeed](#How-to-succeed)
 * [Voting](#Voting)
 * [Averaging](#Averaging)
 * [Bagging](#Bagging)
